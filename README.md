@@ -58,7 +58,6 @@ ___
 * __[gulp-version-number](https://www.npmjs.com/package/gulp-version-number)__
 * __[gulp-webp](https://www.npmjs.com/package/gulp-webp)__
 * __[gulp-webp-for-html](https://www.npmjs.com/package/gulp-webp-for-html)__
-* __[gulp-webp-html-nosvg](https://www.npmjs.com/package/gulp-webp-html-nosvg)__
 * __[gulp-webp-retina-html](https://www.npmjs.com/package/gulp-webp-retina-html)__
 * __[gulp-zip](https://www.npmjs.com/package/gulp-zip)__
 * __[sass](https://www.npmjs.com/package/sass)__
